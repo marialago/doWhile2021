@@ -1,6 +1,5 @@
 #page-home {
   height: 100vh;
-
   background: url("../../assets/home-background.png") no-repeat 700px bottom;
 }
 
@@ -125,10 +124,22 @@ background: #151B26;
 }
 
 a {
+font-family: "Ubuntu";
 text-decoration: none;
 box-sizing: border-box;
-color: var(--primary-color);
+color: var(--title-color);
 }
+#page-home .content header button {
+background-color: var(--primary-color); 
+border-radius: 8px;
+color: var(--primary-color); 
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
 h1,
 h2,
 h3,
@@ -137,4 +148,46 @@ h5,
 h6 {
 font-family: "Ubuntu", sans-serif;
 color: var(--text-color);
+}
+
+/*forms de cadastro*/
+button {
+background-color: var(--primary-color); 
+border-radius: 8px;
+color: var(--primary-color); 
+padding: 5px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
+input[type=text] {
+width: 70%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+
+input[type=password]{
+width: 70%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+
+label{
+font-family: "Ubuntu", sans-serif;
+color: var(--title-color);
+}
+
+input[type=submit] {
+background-color: var(--primary-color); 
+border-radius: 8px;
+color: var(--title-color); 
+padding: 5px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
 }
