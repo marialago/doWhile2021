@@ -92,10 +92,10 @@ html {
 font-family: Roboto, sans-serif;
 }
 
-body {
+/*body {
 background: #151B26;
 -webkit-font-smothing: antialiased;
-}
+}*/
 
 a {
 font-family: "Ubuntu";
@@ -103,6 +103,7 @@ text-decoration: none;
 box-sizing: border-box;
 color: var(--title-color);
 }
+
 #page-home .content header button {
 background-color: var(--primary-color); 
 border-radius: 8px;
