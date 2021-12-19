@@ -39,7 +39,7 @@
   line-height: 30px;
 }
 
-#page-home .content main a {
+/*#page-home .content main a {
   width: 100%;
   max-width: 360px;
   height: 72px;
@@ -52,31 +52,6 @@
   overflow: hidden;
 
   margin-top: 40px;
-}
-
-
-/*@media (max-width: 900px) {
-  #page-home .content {
-    align-items: center;
-    text-align: center;
-  }
-
-  #page-home .content header {
-    margin: 48px auto 0;
-  }
-
-  #page-home .content main {
-    align-items: center;
-  }
-
-  #page-home .content main h1 {
-    font-size: 30px;
-  }
-
-  #page-home .content main p {
-    font-size: 24px;
-
-  }
 }*/
 
 :root {
