@@ -55,29 +55,29 @@
 }
 
 
-@media (max-width: 900px) {
+/*@media (max-width: 900px) {
   #page-home .content {
     align-items: center;
     text-align: center;
   }
 
-  /*#page-home .content header {
+  #page-home .content header {
     margin: 48px auto 0;
   }
 
   #page-home .content main {
     align-items: center;
-  }*/
+  }
 
-  /*#page-home .content main h1 {
+  #page-home .content main h1 {
     font-size: 30px;
-  }*/
+  }
 
   #page-home .content main p {
     font-size: 24px;
 
   }
-}
+}*/
 
 :root {
 --title-color: #BF8C60;
