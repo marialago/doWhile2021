@@ -15,17 +15,8 @@
   align-items: flex-start;
 }
 
-#page-home .content header {
+/*#page-home .content header {
   margin: 48px 0 0;
-}
-
-/*#page-home .content main {
-  flex: 1;
-  max-width: 560px;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
 }*/
 
 #page-home .content main h1 {
