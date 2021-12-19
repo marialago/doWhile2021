@@ -19,14 +19,14 @@
   margin: 48px 0 0;
 }
 
-#page-home .content main {
+/*#page-home .content main {
   flex: 1;
   max-width: 560px;
 
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
+}*/
 
 #page-home .content main h1 {
   font-size: 54px;
@@ -51,11 +51,6 @@ padding: 0;
 html {
 font-family: Roboto, sans-serif;
 }
-
-/*body {
-background: #151B26;
--webkit-font-smothing: antialiased;
-}*/
 
 a {
 font-family: "Ubuntu";
