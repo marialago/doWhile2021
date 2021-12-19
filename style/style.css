@@ -33,11 +33,11 @@
   color: var(--title-color);
 }
 
-/*#page-home .content main p {
-  font-size: 24px;
+#page-home .content main p {
+  font-size: 20px;
   margin-top: 24px;
   line-height: 30px;
-}*/
+}
 
 :root {
 --title-color: #BF8C60;
