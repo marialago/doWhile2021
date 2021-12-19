@@ -33,25 +33,10 @@
   color: var(--title-color);
 }
 
-#page-home .content main p {
+/*#page-home .content main p {
   font-size: 24px;
   margin-top: 24px;
   line-height: 30px;
-}
-
-/*#page-home .content main a {
-  width: 100%;
-  max-width: 360px;
-  height: 72px;
-  background: var(--primary-color);
-  border-radius: 8px;
-  text-decoration: none;
-
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-
-  margin-top: 40px;
 }*/
 
 :root {
